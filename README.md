@@ -12,7 +12,7 @@ Making predictions of New York City Taxis' trip duration using Machine Learning 
 
 # Advice for intensive usage :
 While searching for the ideal combinations of hyperparameters in the RandomForestRegressor algorithm (or any other algorithm), you may use Scikit-Learn's CrossValidation algorithm, it may took longer time to execute in a normal machine, consequently, 
-https://colab.research.google.com/ (Google colab) may be the best environement to execute your code without harming your machine's memory.
+https://colab.research.google.com/ (Google colab) may be the best environement to execute your code without harming your machine's resources.
 
 # The Best obtained Scores based on public score : 
 *SVR* : **0.534529**, Better than **33.5 %** of competitors  <br/>
