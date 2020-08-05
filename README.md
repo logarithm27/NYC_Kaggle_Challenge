@@ -1,3 +1,6 @@
+# I made a video where I explain the challenge :
+https://www.youtube.com/watch?v=Pl1voGSMotg
+
 # NYC_Kaggle_Challenge
 Making predictions of New York City Taxis' trip duration using Machine Learning (Challenge Provided by Kaggle). <br/>
 
